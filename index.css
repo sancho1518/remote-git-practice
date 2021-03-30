@@ -1,0 +1,17 @@
+.first{
+	color: blue;
+	text-align: center;
+	font-style: bold;
+	font-family: sans-serif;
+}
+
+.first-time{
+	color: red;
+	text-align: center;
+	font-family: fantasy;
+}
+
+.going-about{
+	color:green;
+	text-align: center;
+}
